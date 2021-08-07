@@ -1,2 +1,2 @@
 # JasminNewGame
-noDescription
+https://jasmin289.github.io/JasminNewGame/
